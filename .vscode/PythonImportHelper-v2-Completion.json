@@ -1,0 +1,502 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "base.models",
+        "description": "base.models",
+        "isExtraImport": true,
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "BookTable",
+        "importPath": "base.models",
+        "description": "base.models",
+        "isExtraImport": true,
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "AboutUs",
+        "importPath": "base.models",
+        "description": "base.models",
+        "isExtraImport": true,
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "Feedback",
+        "importPath": "base.models",
+        "description": "base.models",
+        "isExtraImport": true,
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "ItemList",
+        "importPath": "base.models",
+        "description": "base.models",
+        "isExtraImport": true,
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "Items",
+        "importPath": "base.models",
+        "description": "base.models",
+        "isExtraImport": true,
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "base.views",
+        "description": "base.views",
+        "isExtraImport": true,
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "base.migrations.0001_initial",
+        "description": "base.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='AboutUs',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('Description', models.TextField()),",
+        "detail": "base.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "BaseConfig",
+        "kind": 6,
+        "importPath": "base.apps",
+        "description": "base.apps",
+        "peekOfCode": "class BaseConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'base'",
+        "detail": "base.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ItemList",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class ItemList(models.Model):\n    Category_name = models.CharField(max_length=15)\n    def __str__(self):\n        return self.Category_name\nclass Items(models.Model):\n    Item_name = models.CharField(max_length=40)\n    description = models.TextField(blank=False)\n    Price = models.IntegerField()\n    Category = models.ForeignKey(ItemList, related_name='Name', on_delete=models.CASCADE)\n    Image = models.ImageField(upload_to='items/')",
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "Items",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class Items(models.Model):\n    Item_name = models.CharField(max_length=40)\n    description = models.TextField(blank=False)\n    Price = models.IntegerField()\n    Category = models.ForeignKey(ItemList, related_name='Name', on_delete=models.CASCADE)\n    Image = models.ImageField(upload_to='items/')\n    def __str__(self):\n        return self.Item_name\nclass AboutUs(models.Model):\n    Description = models.TextField(blank=False)",
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "AboutUs",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class AboutUs(models.Model):\n    Description = models.TextField(blank=False)\n    def __str__(self):\n        return self.Description\nclass Feedback(models.Model):\n    User_name = models.CharField(max_length=15)\n    Description = models.TextField(blank=False)\n    Rating = models.IntegerField()\n    Image = models.ImageField(upload_to='items/', blank=True)\n    def __str__(self):",
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "Feedback",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class Feedback(models.Model):\n    User_name = models.CharField(max_length=15)\n    Description = models.TextField(blank=False)\n    Rating = models.IntegerField()\n    Image = models.ImageField(upload_to='items/', blank=True)\n    def __str__(self):\n        return self.User_name\nclass BookTable(models.Model):\n    Name = models.CharField(max_length=15)\n    Phone_number = models.IntegerField()",
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "BookTable",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class BookTable(models.Model):\n    Name = models.CharField(max_length=15)\n    Phone_number = models.IntegerField()\n    Email = models.EmailField()\n    Total_person = models.IntegerField()\n    Booking_date = models.DateField()\n    def __str__(self):\n        return self.Name",
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "HomeView",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def HomeView(request):\n    items =  Items.objects.all()\n    list = ItemList.objects.all()\n    review = Feedback.objects.all()\n    for k in review:\n            print(k.Image.url)\n    return render(request, 'home.html',{'items': items, 'list': list, 'review': review})\ndef AboutView(request):\n    data = AboutUs.objects.all()\n    return render(request, 'about.html',{'data': data})",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "AboutView",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def AboutView(request):\n    data = AboutUs.objects.all()\n    return render(request, 'about.html',{'data': data})\ndef MenuView(request,category):\n    # items =  Items.objects.all()\n    # print(category)\n    # category=ItemList.objects.filter(Category_name=category)\n    # for i in category:\n    #     print()\n    # if category == 'all':",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "MenuView",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def MenuView(request,category):\n    # items =  Items.objects.all()\n    # print(category)\n    # category=ItemList.objects.filter(Category_name=category)\n    # for i in category:\n    #     print()\n    # if category == 'all':\n    #    items =  Items.objects.all()\n    # else:\n    #    items=Items.objects.filter(Category=category.id)",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "BookTableView",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def BookTableView(request):\n    if request.method=='POST':\n        name = request.POST.get('user_name')\n        phone_number = request.POST.get('phone_number')\n        email = request.POST.get('user_email')\n        total_person = request.POST.get('total_person')\n        booking_data = request.POST.get('booking_data')\n        if name != '' and len(phone_number) == 10 and email != '' and total_person != 0 and booking_data != '':\n            data = BookTable(Name=name, Phone_number=phone_number,\n                             Email=email,Total_person=total_person,",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "FeedbackView",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def FeedbackView(request):\n    if request.method=='POST':\n        username = request.POST.get('user_name')\n        desc = request.POST.get('Description')\n        rating = request.POST.get('rating')\n        profile = request.POST.get('file')\n        if username != '' and len(rating) >= 1 and desc != '':\n            data = Feedback(User_name = username,Description =desc,Rating = rating,Image = profile)\n            data.save()\n    return render(request, 'feedback.html')",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "resturent.asgi",
+        "description": "resturent.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "resturent.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-ku4@z6ut$yyw)eer5^gk1bqi-)5wlp@3#lr#yb6^9^ufu5(mtt'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-ku4@z6ut$yyw)eer5^gk1bqi-)5wlp@3#lr#yb6^9^ufu5(mtt'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'base'",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'base'\n]\nMIDDLEWARE = [",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'resturent.urls'",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "ROOT_URLCONF = 'resturent.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['Template'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['Template'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'resturent.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\")]\nMEDIA_URL= 'media/'\nMEDIA_ROOT=os.path.join(BASE_DIR,\"media\")",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\")]\nMEDIA_URL= 'media/'\nMEDIA_ROOT=os.path.join(BASE_DIR,\"media\")\n# Default primary key field type",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\")]\nMEDIA_URL= 'media/'\nMEDIA_ROOT=os.path.join(BASE_DIR,\"media\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\")]\nMEDIA_URL= 'media/'\nMEDIA_ROOT=os.path.join(BASE_DIR,\"media\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\")]\nMEDIA_URL= 'media/'\nMEDIA_ROOT=os.path.join(BASE_DIR,\"media\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "resturent.settings",
+        "description": "resturent.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "resturent.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "resturent.urls",
+        "description": "resturent.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', HomeView,name=\"Home\"),\n    path('book_table', BookTableView,name='Book_Table'),\n    # path('menu', MenuView,name='Menu'),\n    path('menu/<str:category>', MenuView,name='Menu'),\n    path('about', AboutView,name='About'),\n    path('feedback', FeedbackView,name='Feedback_Form'),\n]\nif settings.DEBUG:",
+        "detail": "resturent.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "resturent.wsgi",
+        "description": "resturent.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "resturent.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'resturent.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
